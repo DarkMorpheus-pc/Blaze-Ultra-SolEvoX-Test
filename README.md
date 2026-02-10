@@ -2,6 +2,8 @@
 
 BlazeOS SolEvoX, Windows 11 tabanlı; performans, stabilite ve günlük kullanım dengesini hedefleyen optimize edilmiş bir Windows dağıtımıdır.
 
+İlk olarak sanal makinede test edip kullanmanız önerilir!
+
 Bu sürüm, klasik “kırpılmış Windows” mantığında değil; gereksiz servisler ve arka plan yükleri kapatılarak, sistemin hafifletildiği ama işlevselliğin korunduğu bir yapı sunar.
 
 ⚙️ Teknik Temel Taban: Windows
